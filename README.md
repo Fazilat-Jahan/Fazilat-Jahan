@@ -17,8 +17,8 @@ A passionate **Web Developer** focused on building modern solutions, specialized
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![CMS](https://img.shields.io/badge/CMS-21759B?style=flat&logo=wordpress&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)    
+![Sanity CMS](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat&logo=sanity&logoColor=white)   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
