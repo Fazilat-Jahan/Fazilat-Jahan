@@ -8,8 +8,7 @@ A passionate **Web Developer** focused on building modern solutions, specializin
 - 🔭 Building e-commerce solutions with **Next.js** & **Tailwind CSS**  
 - 🌱 Exploring **Agentic AI** to push web innovation  
 - 🛠️ Skilled in **TypeScript**, **Python**, **CMS backends**, and responsive design  
-- 💡 Passionate about seamless UX and scalable code  
-- 📫 Let’s connect: [https://www.linkedin.com/in/fazilat-jahan-web-developer/]  
+- 💡 Passionate about seamless UX and scalable code   
 
 ---
 
@@ -21,12 +20,6 @@ A passionate **Web Developer** focused on building modern solutions, specializin
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 ![CMS](https://img.shields.io/badge/CMS-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
----
-
-## 📈 My Stats
-![Fazilat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fazilat-Jahan&show_icons=true&theme=dracula&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazilat-Jahan&layout=compact&theme=dracula&hide_border=true)  
 
 ---
 
@@ -43,10 +36,16 @@ Check out my live portfolio showcasing projects, built with Next.js and Tailwind
 
 ---
 
+## 📈 My Stats
+![Fazilat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fazilat-Jahan&show_icons=true&theme=dracula&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazilat-Jahan&layout=compact&theme=dracula&hide_border=true)  
+
+---
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazilat-jahan-web-developer/)
 
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ItxFaziSays)
+[!(https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ItxFaziSays)
   
 ---
 
