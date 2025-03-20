@@ -39,7 +39,7 @@ A **Web Developer** crafting elegant **e-commerce experiences** with modern tech
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazilat-jahan-web-developer/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ItxFaziSays)
-🌍 [My Portfolio](https://github.com/Fazilat-Jahan/My-Portfolio-)  
+🌍 [My Portfolio](https://my-portfolio-fazilat-jahans-projects.vercel.app)  
 
 ---
 
