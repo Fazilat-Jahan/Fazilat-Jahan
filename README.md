@@ -1,6 +1,6 @@
 # Hey, I'm Fazilat Jahan! ✨
 
-A passionate **Web Developer** focused on building modern solutions, specializing in crafting elegant **e-commerce experiences**, and honing my skills in **Agentic AI Engineering**.
+A passionate **Web Developer** focused on building modern solutions, specialized in crafting elegant **e-commerce experiences**, and honing my skills in **Agentic AI Engineering**.
 
 ---
 
