@@ -45,7 +45,7 @@ Check out my live portfolio showcasing projects, built with Next.js and Tailwind
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazilat-jahan-web-developer/)
 
-[!(https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ItxFaziSays)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ItxFaziSays)
   
 ---
 
