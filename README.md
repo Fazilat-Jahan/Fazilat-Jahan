@@ -5,7 +5,7 @@ A passionate **Web Developer** focused on building modern solutions, specialized
 ---
 
 ## 🌟 About Me
-- 🔭 Building e-commerce solutions with **Next.js** & **Tailwind CSS**  
+- 🔭 Building web solutions with **Next.js** & **Tailwind CSS**  
 - 🌱 Exploring **Agentic AI** to push web innovation  
 - 🛠️ Skilled in **TypeScript**, **Python**, **CMS backends**, and responsive design  
 - 💡 Passionate about seamless UX and scalable code   
